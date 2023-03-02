@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1670757962 source:c:\users\jakub\desktop\quicksort\quicksort\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<bits/stdc++.h>
+	<algorithm>
+
+1677746232 source:c:\users\jakub\desktop\all\quicksort\quicksort\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<bits/stdc++.h>
+	<algorithm>
+
